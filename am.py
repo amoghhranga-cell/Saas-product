@@ -1,3 +1,3 @@
 print("hellow word")
 
-print("text in my notebook")
+print("text in my textbook")
